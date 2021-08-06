@@ -131,7 +131,7 @@ def main():
   st.title("\tSocial Media Depression Detection")
   st.write(" ")
   st.write(" ")
-  st.sidebar.image('sentiments.jpg')
+  st.sidebar.image('th.jpg')
   st.sidebar.header("Project Partners")
   st.sidebar.text('1.Darlington Kwenda, R195903B')
   st.sidebar.text('2.Melissa Chikanyire, R197988X')
